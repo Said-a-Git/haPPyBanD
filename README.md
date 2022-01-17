@@ -2,6 +2,7 @@
 - 👀 I’m interested in JAVA developing
 - 🌱 I’m currently learning Computer Science
 - 📫 Reach me by: saidalali3@gmail.com  or  11831388@students.liu.edu.lb
+- this is my first repository ever..
 
 <!---
 haPPyBanD/haPPyBanD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
