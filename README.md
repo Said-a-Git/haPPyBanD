@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Said Alali
 - 👀 I’m interested in JAVA developing
-- 🌱 I’m currently learning Computer Science
-- 📫 Reach me by: saidalali3@gmail.com  or  11831388@students.liu.edu.lb
+- 🌱 I’m a Comuter Science Graduate
+- 📫 Reach me by: saidalali3@gmail.com
 - this is my first repository ever..
 
 <!---
